@@ -1,3 +1,5 @@
+COMMAND LINE RELFECTIONS
+
 In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
 
 The command line is a tool for anyone but specfically helps developers to interact with files and folders. It takes out the noise of a visaul workspace and allows fast navigation with multiple commands. For example you don't have to click through mutliple windows to find a file you want, then open it. You can just add this all into one line of the command terminal, hit enter and it will take you straight there and open the file in one command.
@@ -17,3 +19,24 @@ cd = changing directory
 code -r (filename) = opening text files in VS code
 touch = creating new files
 ; = adding extra commands after a first command
+
+
+INSTALL AND EXPLORE GIT RELFECTIONS
+
+Whats the difference between git and GitHub?
+
+Git is a 'local' verson control system. Git stores changes made to files on your personal computer in a save by save fashion. You can go back to any previous save point if you have made any mistakes or edits that did not work out.
+
+GitHut is a 'remote' version control system. GitHub stores all of those changes 'in the cloud'. This allows multiple people to work on projects.
+
+Can you think of an analogy to describe them?
+
+Git is like having a clipboard on Microsoft Word or your history tab in your browser. You can look back at where you were previously without affecting your current position.
+
+What did you notice about your own learning? What did you do when you were confused or blocked?
+
+I've noticed that if I don't understand something I tend to get stuck on it and wont pass on to see if I will get it later. I end up googling it and wasting a lot of time trying to figure it out when just around the corner there is implimentation and more discussion.
+
+Is there anything you'd do differently if you were to repeat the learning exploration again?
+
+I should really just carry on through. I'm wasting a lot of time. I also haven't been very generous with my learning time and probably shouldn't be so strict and give myself some more time allowance for this sprint.
