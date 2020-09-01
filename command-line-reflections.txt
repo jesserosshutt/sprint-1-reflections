@@ -1,0 +1,19 @@
+In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
+
+The command line is a tool for anyone but specfically helps developers to interact with files and folders. It takes out the noise of a visaul workspace and allows fast navigation with multiple commands. For example you don't have to click through mutliple windows to find a file you want, then open it. You can just add this all into one line of the command terminal, hit enter and it will take you straight there and open the file in one command.
+
+The paramount feature of using the command line is that you can integrate a version control system that keeps a record of all your edits that you have made to files.
+
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+No, I did not stick to the time frame. I got stuck making sure I understood all of the commands when I posibly could have moved on and googled the commands when I needed them. Next time I would probably take less notes and only write doen key points/bullet points.
+
+
+Name 5 commands you used, and what they do.
+
+ls = list of items in directory
+cd = changing directory
+code -r (filename) = opening text files in VS code
+touch = creating new files
+; = adding extra commands after a first command
