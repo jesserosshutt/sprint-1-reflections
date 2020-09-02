@@ -40,3 +40,18 @@ I've noticed that if I don't understand something I tend to get stuck on it and 
 Is there anything you'd do differently if you were to repeat the learning exploration again?
 
 I should really just carry on through. I'm wasting a lot of time. I also haven't been very generous with my learning time and probably shouldn't be so strict and give myself some more time allowance for this sprint.
+
+
+BRANCH, PULL, MERGE - REFLECTIONS
+
+What is Master?
+
+The master is the hardcopy copy of the manuscript. This is the version that everyone adds to being the highest order of all parents.
+
+Why create a Branch?
+
+Creating a branch allows a user to make edits without the consequence of breaking the master copy. Like a sandpit where one can edit and test until they are ready to finalise an edit to the master.
+
+How would you describe stage and commit to your non-tech-savvy friend?
+
+Staging and commiting is like baking. You gather all your ingredients and mix it all up (editing), you then put your mix in a tin (staging), you may have forgotten to put something in so you put bits on top, then you commit it to the oven!
